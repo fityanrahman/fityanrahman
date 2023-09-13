@@ -4,7 +4,7 @@ A Mobile app developer with 5 years of experience in cross-platform development 
 
 I also work on UI/UX using Figma and frontend development using HTML, vanilla and tailwindCSS, and javascript.
 
-- 🔭 I’m currently looking for new challenges on mobile app development
+- 🔭 I’m currently looking for new challenges on mobile app developer position
 - 🌱 I’m currently learning Dicoding (Google Developers Authorized Training Partner) course "Menjadi Android Developer Expert (Become a Flutter Developer Expert)"
 - 💬 Ask me about mobile and frontend development 
 - 📫 How to reach me: hi.fityan@gmail.com
